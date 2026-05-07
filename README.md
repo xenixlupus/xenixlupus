@@ -8,7 +8,7 @@ Applied Computer Science student focused on backend development, UI design and c
 - SQL
 - HTML/CSS
 - JavaScript
-- Git
+- TypeScript
 
 ## Current Projects
 - Dragon Riders Chronicle
