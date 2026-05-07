@@ -1,16 +1,21 @@
-## Hi there 👋
+# Xena
 
-<!--
-**xenixlupus/xenixlupus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Computer Science student focused on backend development, UI design and creative coding.
 
-Here are some ideas to get you started:
+## Tech Stack
+- C++
+- Python
+- SQL
+- HTML/CSS
+- JavaScript
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Dragon Riders Chronicle
+- Student Tracker
+- Movie Recommendation App
+
+## Currently Learning
+- Backend architecture
+- Databases
+- Modern UI systems
